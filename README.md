@@ -1,3 +1,4 @@
+![Copy of Black Minimalist Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/11662445/226958670-aac2aa14-4882-41d1-bc2f-734a0cf14a69.png)
 
 <h1 align="center">Hi 👋, I'm Martin Rojas</h1>
 <h3 align="center">FullStack Developer living in México and founder of martinrojas.exe development community!</h3>
