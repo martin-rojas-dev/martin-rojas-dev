@@ -1,4 +1,4 @@
-![https://github.com/mouredev]([https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png](https://github.com/martin-rojas-dev/martin-rojas-dev/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png))
+(https://github.com/martin-rojas-dev/martin-rojas-dev/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Martin Rojas</h1>
 <h3 align="center">FullStack Developer living in México and founder of martinrojas.exe development community!</h3>
 
